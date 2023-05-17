@@ -1,5 +1,5 @@
 # CrackDetection
-Created a machine learning model using Pytorch that would detect cracks on road from on open source road dataset. The ML model would predict a masked model relative to the ground truth mask.
+Created a machine learning model using PyTorch that would detect cracks on road from on open source road dataset. The ML model would predict a masked model relative to the ground truth mask.
 
 Below is the public repository for the dataset
 
