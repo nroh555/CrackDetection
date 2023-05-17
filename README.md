@@ -9,7 +9,7 @@ The machine learning model uses semantic segmentation algorithm with a pre-train
 
 https://github.com/qubvel/segmentation_models.pytorch 
 
-Below are some examples of output from the model
+Below are some examples of output from the model. A sample of the output images can be found in the ML_Output folder
 
 ![image](https://github.com/nroh555/CrackDetection/assets/100507962/bbcf0fbe-fa42-4a4c-ba13-c5c2df177409)
 ![image](https://github.com/nroh555/CrackDetection/assets/100507962/fad08c30-3033-49c8-b4c6-ff3f78c9c04c)
